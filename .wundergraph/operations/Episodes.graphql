@@ -1,0 +1,8 @@
+query Episodes {
+	rickAndMorty_episodes {
+		info {
+            count
+        }
+		
+	}
+}
